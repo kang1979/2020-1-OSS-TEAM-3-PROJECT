@@ -31,12 +31,14 @@
 * > 순순히 어두운 밤을 받아들이지 마오. 노인들이여, 저무는 하루에 소리치고 저항해요. 분노하고, 분노해요. 사라져가는 빛에 대해. (Dr. 만 | 맷 데이먼)
 * > 사랑은 시공간을 초월하는 우리가 알 수 있는 유일한 것이에요. 이해는 못하지만 믿어보기는 하자구요. (아멜리아 | 앤 해서웨이)
 
+***********
+
 ### Program: Showing some quotes
 ```python
 
-quote = {'1':'"STAY" (쿠퍼 | 매튜 맥커너히)',
-         '2':'"순순히 어두운 밤을 받아들이지 마오. 노인들이여, 저무는 하루에 소리치고 저항해요. 분노하고, 분노해요. 사라져가는 빛에 대해." (Dr. 만 | 맷 데이먼)',
-         '3':'"사랑은 시공간을 초월하는 우리가 알 수 있는 유일한 것이에요. 이해는 못하지만 믿어보기는 하자구요." (아멜리아 | 앤 해서웨이)',
+quote = {'1':'"STAY" (쿠퍼 - 매튜 맥커너히)',
+         '2':'"순순히 어두운 밤을 받아들이지 마오. 노인들이여, 저무는 하루에 소리치고 저항해요. 분노하고, 분노해요. 사라져가는 빛에 대해." (Dr. 만 - 맷 데이먼)',
+         '3':'"사랑은 시공간을 초월하는 우리가 알 수 있는 유일한 것이에요. 이해는 못하지만 믿어보기는 하자구요." (아멜리아 - 앤 해서웨이)',
          'q': '감사합니다.'}
 
 while True:
@@ -61,6 +63,5 @@ while True:
     
 
 ```
-***********
-#### Result
-<img src="https://postfiles.pstatic.net/MjAyMDA3MDJfNTcg/MDAxNTkzNjYxODY2NDgz.KWIQhYQwy9wyXmHSGbrujYDYVVINJnUuR7zdpnnCUqAg.WGBdIKzwIN9naFgQ-LE0qRnZSW7a7d4LunEPtxpwIfIg.PNG.gyeongmin_330/show_quotes_program.png?type=w966" width="650">
+
+
