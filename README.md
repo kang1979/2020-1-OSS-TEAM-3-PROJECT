@@ -2,7 +2,11 @@
 
 ## **Interstellar**
 
+***********
+
 <img src="https://i0.wp.com/www.heyuguys.com/images/2014/09/Interstellar-Poster-slice.png?fit=1000%2C646&ssl=1" width="650">
+
+***********
 
 |  | MOVIE INFO |
 |----------|:-----------------|
@@ -10,6 +14,8 @@
 | **개봉** | 2016.01.14 재개봉, 2014.11.06 개봉 |
 | **감독** | 크리스토퍼 놀란 |
 | **출연** | 매튜 맥커너히(쿠퍼), 앤 해서웨이(브랜드), 제시카 차스테인(머피) |
+
+***********
 
 ### Synopsis
 
@@ -22,9 +28,12 @@
 그리고 우린 답을 찾을 것이다. 늘 그랬듯이…  
 (출처: 네이버 영화)
 
+***********
 
 ### Official Trailer
 공식 예고편은 [여기]( https://www.youtube.com/watch?v=2LqzF5WauAw "Official Trailer")를 클릭하세요.
+
+***********
 
 ### _INTERSTELLAR_ QUOTES
 * > STAY (쿠퍼 - 매튜 맥커너히)
@@ -59,8 +68,6 @@ while True:
 
         elif usr_input == 'q':
             print(quote['q']); break
-
-    
 
 ```
 
