@@ -70,5 +70,9 @@ while True:
             print(quote['q']); break
 
 ```
+***********
 
+####Result
+
+<img src="https://postfiles.pstatic.net/MjAyMDA3MDJfNTcg/MDAxNTkzNjYxODY2NDgz.KWIQhYQwy9wyXmHSGbrujYDYVVINJnUuR7zdpnnCUqAg.WGBdIKzwIN9naFgQ-LE0qRnZSW7a7d4LunEPtxpwIfIg.PNG.gyeongmin_330/show_quotes_program.png?type=w966" width="650">
 
