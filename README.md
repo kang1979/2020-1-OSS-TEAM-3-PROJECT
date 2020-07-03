@@ -86,7 +86,7 @@ wikipedia: [here](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=
 
 ***********
 
-<img src= "https://www.google.com/url?sa=i&url=http%3A%2F%2Fatlantachosun.com%2F93782&psig=AOvVaw3yLuJadAUTfEs5XYSKt4To&ust=1593841147610000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJC-0rqvsOoCFQAAAAAdAAAAABAX">
+<img src="https://image.news1.kr/system/photos/2017/8/10/2675835/article.jpg/dims/optimize">
 
 ***********
 
@@ -112,7 +112,9 @@ Please check it out [this movie trailer](https://youtu.be/uflYEv_0JoY)!
 
 ***********
 
-### _INTERSTELLAR_ QUOTES
+### _MidnightRunners_ QUOTES
+
+* > 그냥 우리가 잡아볼게요.(ParkGijun)
 
 ***********
 
