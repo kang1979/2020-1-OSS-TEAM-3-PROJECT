@@ -46,7 +46,7 @@
 
 ***********
 
-<img src="url" width="650">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.com%2FWorlds-Fastest-Indian-Peter-Robinson%2Fdp%2FB000CRR3RY&psig=AOvVaw28y_xitYQa93JIpNpaoDMD&ust=1593826281176000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNjJguD3r-oCFQAAAAAdAAAAABAD" width="650">
 
 ***********
 
@@ -66,7 +66,8 @@
 ***********
 
 ### Official Trailer 
-
+official trailer: click [here](https://youtu.be/02Yy1vihIKs "Official Trailer")
+more info about **_The World's Fastest Indian_**: click here [>>](https://www.newzealand.com/int/feature/about-the-worlds-fastest-indian/)
 ***********
 
 ### _INTERSELLAR_ QUOTES
