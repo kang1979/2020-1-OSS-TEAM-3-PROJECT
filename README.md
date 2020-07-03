@@ -86,15 +86,16 @@ wikipedia: [here](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=
 
 ***********
 
+<img src= "https://www.google.com/url?sa=i&url=http%3A%2F%2Fatlantachosun.com%2F93782&psig=AOvVaw3yLuJadAUTfEs5XYSKt4To&ust=1593841147610000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJC-0rqvsOoCFQAAAAAdAAAAABAX">
 
 ***********
 
 |  | MOVIE INFO |
 |----------|:-----------------|
-| **장르** | Action & comedy |
+| **장르** | Action & Comedy |
 | **개봉** | 2017.08.06 |
 | **감독** | KimJuhwan |
-| **출연** | ParkSeoJun(ParkGijun), GangHaneul(GangHuiyeol) |
+| **출연** | ParkSeojun(ParkGijun), GangHaneul(GangHuiyeol) |
 
 ***********
 
@@ -105,7 +106,9 @@ Ki-Joon (Park Seo-Joon) and Hee-Yeol (Kang Ha-Neul) are new students at the Kore
 
 **********
 
-### Official Trailer
+### Official Trailer 
+
+Please check it out [this movie trailer](https://youtu.be/uflYEv_0JoY)!
 
 ***********
 
