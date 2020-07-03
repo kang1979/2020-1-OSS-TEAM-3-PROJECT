@@ -76,13 +76,12 @@ wikipedia: [here](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=
 
 ### _INTERSELLAR_ QUOTES
 
-* > 
-* > 
-* > 
+* > Burt Munro: If you don't follow through on your dreams, you might as well be a vegetable.
+* > Burt Munro: At my age any day above ground and vertical is a good day.
+* > Burt Munro: You live more in five minutes on a bike like this going flat out than some people live in a lifetime.
+
 
 ***********
-
-// up to here  -------- kenji ----------------- //
 
 ### Program: Showing some quotes
 ```python
