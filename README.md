@@ -42,6 +42,39 @@
 
 ***********
 
+## Second movie: **_The World's Fastest Indian_**
+
+***********
+
+<img src="url" width="650">
+
+***********
+
+|  | MOVIE INFO |
+|----------|:-----------------|
+| **장르** | Non-fiction & Sports drama film |
+| **개봉** | 2005.12.07 개봉 |
+| **감독** | Roger Donaldson |
+| **출연** | Anthony Hopkins, Diane Ladd, Jessica Cauffiel, Christopher Lawford |
+
+***********
+
+### Synopsis
+
+> " "
+
+***********
+
+### Official Trailer 
+
+***********
+
+### _INTERSELLAR_ QUOTES
+
+***********
+
+// up to here  -------- kenji ----------------- //
+
 ### Program: Showing some quotes
 ```python
 
