@@ -46,7 +46,7 @@
 
 ***********
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.com%2FWorlds-Fastest-Indian-Peter-Robinson%2Fdp%2FB000CRR3RY&psig=AOvVaw28y_xitYQa93JIpNpaoDMD&ust=1593826281176000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNjJguD3r-oCFQAAAAAdAAAAABAD" width="650">
+<img src="https://en.wikipedia.org/wiki/The_World%27s_Fastest_Indian#/media/File:Worlds_fastest_indian.jpg" width="650">
 
 ***********
 
@@ -74,7 +74,7 @@ wikipedia: [here](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=
 
 ***********
 
-### _INTERSELLAR_ QUOTES
+### _The World's Fastest Indian_ QUOTES
 
 * > Burt Munro: If you don't follow through on your dreams, you might as well be a vegetable.
 * > Burt Munro: At my age any day above ground and vertical is a good day.
