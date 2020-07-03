@@ -82,9 +82,40 @@ wikipedia: [here](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=
 
 // up to here  -------- kenji ----------------- //
 
+## Thrid movie: **_MidnightRunners_**
+
+***********
+
+
+***********
+
+|  | MOVIE INFO |
+|----------|:-----------------|
+| **장르** | Action & comedy |
+| **개봉** | 2017.08.06 |
+| **감독** | KimJuhwan |
+| **출연** | ParkSeoJun(ParkGijun), GangHaneul(GangHuiyeol) |
+
+***********
+
+### Synopsis
+
+
+Ki-Joon (Park Seo-Joon) and Hee-Yeol (Kang Ha-Neul) are new students at the Korean National Police University. They are not the best students, but they are sincere when it matters. They decide to go out one evening. Towards the end of their night, they witness a young woman being kidnapped. Ki-Joon and Hee-Yeol try to get the police involved, but they meet apathy and bureaucracy. The two police cadets decide to save the young woman's life before it's too late.
+
+**********
+
+### Official Trailer
+
+***********
+
+### _INTERSTELLAR_ QUOTES
+
+***********
+
 ### Program: Showing some quotes
 ```python
-
+dd
 quote = {'1':'"STAY" (쿠퍼 | 매튜 맥커너히)',
          '2':'"순순히 어두운 밤을 받아들이지 마오. 노인들이여, 저무는 하루에 소리치고 저항해요. 분노하고, 분노해요. 사라져가는 빛에 대해." (Dr. 만 | 맷 데이먼)',
          '3':'"사랑은 시공간을 초월하는 우리가 알 수 있는 유일한 것이에요. 이해는 못하지만 믿어보기는 하자구요." (아멜리아 | 앤 해서웨이)',
